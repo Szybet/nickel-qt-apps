@@ -34,3 +34,5 @@ Do this for every missing library, or if you choose to compile qt on your own, y
 After running, you can pack the app as a one click - extract zip file to make it easy to install look here for an example: https://github.com/Szybet/sanki/blob/master/nickel_app/create.sh
 
 Scripts, code examples can be found in sanki repo
+
+You can also use this library https://github.com/Kobo-InkBox/ereaderdev-lib/tree/main to handle kobo hardware :)
