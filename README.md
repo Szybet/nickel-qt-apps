@@ -30,3 +30,7 @@ How to compile it manually: https://github.com/Szybet/niAudio/blob/main/apps-on-
 Or just copy it from here: https://github.com/Kobo-InkBox/compiled-binaries or here: https://github.com/Kobo-InkBox/gui-rootfs/tree/main/lib at the path: `/arm-kobo-linux-gnueabihf/arm-kobo-linux-gnueabihf/sysroot/lib/` to the `lib` directory of qt
 
 Do this for every missing library, or if you choose to compile qt on your own, you can disable libinput & friends to not have such problems.
+
+After running, you can pack the app as a one click - extract zip file to make it easy to install look here for an example: https://github.com/Szybet/sanki/blob/master/nickel_app/create.sh
+
+Scripts, code examples can be found in sanki repo
